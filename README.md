@@ -89,20 +89,16 @@
 <br/>
 
 ### 📊 Estatísticas
-
-<p>
+<p style="display: flex; gap: 10px;">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 6px;" 
     src="https://github-readme-stats.vercel.app/api?username=NetoDantas270&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetoDantas270&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetoDantas270&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
-
 </p>
+

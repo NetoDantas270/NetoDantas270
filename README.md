@@ -95,7 +95,7 @@
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 8px;" 
+    style="padding-right: 6px;" 
     src="https://github-readme-stats.vercel.app/api?username=NetoDantas270&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
 <img 
